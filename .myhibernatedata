@@ -1,0 +1,24 @@
+#MyEclipse Hibernate Properties
+#Sun Mar 06 14:19:58 CST 2016
+sessionFactoryName=
+genBasicCompId=true
+profile=
+daoSFId=
+version=4.1
+jndiPath=
+detectM2M=true
+reStrategyClass=
+detectO2O=true
+springDaoFile=
+useJavaTypes=true
+keyGenerator=assigned
+libInstallFolder=src/main/webapp/WEB-INF/lib
+addLibs2Project=false
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=true
+reSettingsFile=/pedigree/hibernate.reveng.xml
+configFile=/pe/src/main/java/pedi/model/hibernate.cfg.xml
+createConfigFile=true
+addLibs2Classpath=false

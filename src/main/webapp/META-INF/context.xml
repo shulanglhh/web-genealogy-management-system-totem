@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <Context>
+      <Context docBase="pedigree" path="/pedigree" reloadable="true" source="org.eclipse.jst.jee.server:pedigree"/>
+      <Resource name="jdbc/pedigree" auth="Container" type="javax.sql.DataSource" maxTotal="100" maxIdle="30" maxWaitMillis="10000" username="totem" password="123456"
+                driverClassName="org.postgresql.Driver" url="jdbc:postgresql://192.168.174.128:5432/pedigree"/>
+      </Context>

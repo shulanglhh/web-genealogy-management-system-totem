@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="WebContent/pageoffice.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/itextpdf-5.5.4.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/poi-ooxml-schemas-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/poi-excelant-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/poi-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/poi-ooxml-3.11-20141221.jar"/>
+	<classpathentry kind="lib" path="WebContent/hibernate-commons-annotations-4.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/javax.mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="WebContent/WEB-INF/mail.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-email-1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-email-1.5-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-email-1.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-email-1.5-tests.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/javax.mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="src/main/webapp/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="H:/下载/commons-dbcp2-2.7.0/commons-dbcp2-2.7.0.jar"/>
+	<classpathentry kind="lib" path="H:/下载/commons-pool2-2.8.0/commons-pool2-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/hp/Desktop/pedigree/postgresql-42.2.9.jar"/>
+	<classpathentry kind="lib" path="D:/JavaSoftware/apache-tomcat-8.5.50/lib/jsp-api.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
